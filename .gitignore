@@ -1,4 +1,6 @@
 test.html
+# 忽略node_modules目录，但不忽略a.js
 /node_modules/*
 !/node_modules/a.js
+# 只忽略test下的test1.html
 test/test1.html

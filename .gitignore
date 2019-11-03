@@ -1,0 +1,4 @@
+test.html
+/node_modules/*
+!/node_modules/a.js
+test/test1.html
